@@ -7,12 +7,15 @@
 // - Унікальність ідентифікатора
 
 
-const age = 10;
-const totalPrice = 200.74;
-const userName = 'Chelsy';
-const massage = 'Ласкаво просимо!';
-const isOpen = true;
-const shouldConfirm = false;
+
+
+// const age = 10;
+// const totalPrice = 200.74;
+// const userName = 'Chelsy';
+// const massage = 'Ласкаво просимо!';
+// const isOpen = true;
+// const shouldConfirm = false;
+
 
 
 
@@ -21,3 +24,6 @@ const shouldConfirm = false;
 
 // - Як window.alert() блокує інтерпритацію
 
+// console.log('до');
+// alert("hello!");
+// console.log('після');

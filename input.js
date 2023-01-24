@@ -5,10 +5,11 @@
 
 
 // Бажаєте продовжити підписку?
-// const shouldRenew = ;
+// const shouldRenew = confirm("Бажаєте продовжити підписку?");
 // console.log(shouldRenew);
 
 // Введіть кількість товару
-// let quantity = ;
+// let quantity = prompt('Введіть кількість товару');
+// quantity = Number(quantity);
 // console.log(quantity);
 // console.log(typeof quantity);
