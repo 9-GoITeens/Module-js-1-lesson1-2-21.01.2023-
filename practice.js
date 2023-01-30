@@ -92,7 +92,8 @@
 
 // Задача №3
 
-// Оголоси дві змінні, productName для назви товару і pricePerItem для зберігання цни за штуку.
+// Оголоси дві змінні, productName для назви товару і pricePerItem
+// для зберігання цни за штуку.
 // При оголошені присвой змінним наступні характеристики товара:
 
 // 1) назва - строка "Droid"
@@ -108,13 +109,18 @@
 
 
 // 3.1
-// Оголоси дві змінні, productName для назви товару і pricePerItem для зберігання цни за штуку.
+// Оголоси дві змінні, productName для назви
+// товару і pricePerItem для зберігання цни за штуку.
 // При оголошені присвой змінним наступні характеристики товара:
 
 // назва - строка "Ice cream"
+// const productName = "Ice cream";
 // ціна за штуку - число 70
+// const pricePerItem = 70;
 
 // і вивести дані в консоль
+// console.log("назва товару:", productName);
+// console.log("ціна:", pricePerItem);
 
 // 3.2
 // Оголоси дві змінні, productName для назви товару
@@ -178,11 +184,21 @@
 
 
 // 4.1
-// Ім'я товару змінили на "Ice cream cones" і збільшили його ціну на 150 кредитів.
-// Перевизнач значення змінних pricePerItem і productName після їх оголошення.
+// Ім'я товару змінили на "Ice cream cones" 
+// і збільшили його ціну на 150 кредитів.
+// Перевизнач значення змінних pricePerItem 
+//  productName після їх оголошення.
 
 // let productName = "Ice cream";
+// productName = "Ice cream cones";
+
 // let pricePerItem = 70;
+// pricePerItem = 220;
+
+// console.log('Назва', productName);
+// console.log("Ціна", pricePerItem);
+
+
 
 // 4.2
 // Ім'я товару змінили на "Motorola" і збільшили його ціну на 2500 кредитів.
@@ -221,26 +237,27 @@
 
 
 // Задача №5
-// Оголоси наступні змінні, використовуючи ключове слово const або let,
+// Оголоси наступні змінні, використовуючи
+//  ключове слово const або let,
 // і присвой їм відповідні значення.
 // Виведи дані в консоль.
 
-// topSpeed - число 160.
+ //topSpeed - число 160.
 // distance - число 617.54.
 // login - рядок "mango935".
 // isOnline - буль true.
 // isAdmin - буль false.
 
-const topSpeed = 160;
-const distance = 617.54;
-const login = "mango935";
-const isOnline = true;
-const isAdmin = false;
+// const topSpeed = 160;
+// const distance = 617.54;
+// const login = "mango935";
+// const isOnline = true;
+// const isAdmin = false;
 
-console.log(topSpeed);
-console.log(distance);
-console.log(login);
-console.log(isOnline);
-console.log(isAdmin);
+// console.log(topSpeed);
+// console.log(distance);
+// console.log(login);
+// console.log(isOnline);
+// console.log(isAdmin);
 
 
